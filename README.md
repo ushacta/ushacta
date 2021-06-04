@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ushaca
+- 👋 Hi, I’m @ushacta
 - 👀 I’m interested in learning new things in life
 - 🌱  I learnt AWS and devops in corona time.
 - I’m currently learning chef, splunk, linux commands etc
