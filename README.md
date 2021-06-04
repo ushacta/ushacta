@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ushaca
 - 👀 I’m interested in learning new things in life
-- 🌱 I’m currently learning chef, splunk, linux commands etc
+- 🌱  I learnt AWS and devops in corona time.
+- I’m currently learning chef, splunk, linux commands etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through whatsapp
 
